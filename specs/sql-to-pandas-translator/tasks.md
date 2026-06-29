@@ -25,7 +25,7 @@ Build a single-page, fully client-side web application in TypeScript/React (or p
     - Return success for valid input
     - _Requirements: 1.3, 1.6_
 
-  - [ ] 3.2 Write property test for Input Validator
+  - [-] 3.2 Write property test for Input Validator
     - **Property 5: Character limit** — Input strings longer than 10,000 characters never reach the parser (validator always blocks them first)
     - **Validates: Requirements 1.6**
 
